@@ -1,4 +1,4 @@
-# Server Manager Pro 🚀
+# MCSeverJerDownloader 🚀
 
 [![GitHub Actions](https://github.com/yourusername/server-manager-pro/actions/workflows/maven-build.yml/badge.svg)](https://github.com/yourusername/server-manager-pro/actions)
 [![Java Version](https://img.shields.io/badge/Java-17%2B-brightgreen)](https://adoptium.net/)
